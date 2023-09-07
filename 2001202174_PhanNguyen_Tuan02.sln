@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2001202174_PhanNguyen_Tuan02", "2001202174_PhanNguyen_Tuan02\2001202174_PhanNguyen_Tuan02.csproj", "{2BE6E4D8-807F-4C61-86FE-D792A9C90DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThietKeControls", "ThietKeControls\ThietKeControls.csproj", "{6A65CF94-FA55-44A5-AF4A-1A1EB3C09670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuVien", "ThuVien\ThuVien.csproj", "{1797EFD7-E6AD-497E-9CBA-17C775C1BD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE6E4D8-807F-4C61-86FE-D792A9C90DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE6E4D8-807F-4C61-86FE-D792A9C90DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE6E4D8-807F-4C61-86FE-D792A9C90DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE6E4D8-807F-4C61-86FE-D792A9C90DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A65CF94-FA55-44A5-AF4A-1A1EB3C09670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A65CF94-FA55-44A5-AF4A-1A1EB3C09670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A65CF94-FA55-44A5-AF4A-1A1EB3C09670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A65CF94-FA55-44A5-AF4A-1A1EB3C09670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1797EFD7-E6AD-497E-9CBA-17C775C1BD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1797EFD7-E6AD-497E-9CBA-17C775C1BD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1797EFD7-E6AD-497E-9CBA-17C775C1BD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1797EFD7-E6AD-497E-9CBA-17C775C1BD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\2001202174_PhanNguyen_Tuan02\ThietKeControls\bin\Debug\ThietKeControls.dll
+E:\LuuDuLieuSinhVien\2001202174_PhanNguyen_Tuan02\ThietKeControls\bin\Debug\ThietKeControls.pdb
+E:\LuuDuLieuSinhVien\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.dll
+E:\LuuDuLieuSinhVien\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.pdb
+E:\LuuDuLieuSinhVien\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+C:\MonHoc\PTPMUDTM\2001202174_PhanNguyen_Tuan02\ThietKeControls\bin\Debug\ThietKeControls.dll
+C:\MonHoc\PTPMUDTM\2001202174_PhanNguyen_Tuan02\ThietKeControls\bin\Debug\ThietKeControls.pdb
+C:\MonHoc\PTPMUDTM\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.csproj.AssemblyReference.cache
+C:\MonHoc\PTPMUDTM\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.csproj.CoreCompileInputs.cache
+C:\MonHoc\PTPMUDTM\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.dll
+C:\MonHoc\PTPMUDTM\2001202174_PhanNguyen_Tuan02\ThietKeControls\obj\Debug\ThietKeControls.pdb
